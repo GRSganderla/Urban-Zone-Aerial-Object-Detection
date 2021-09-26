@@ -34,3 +34,31 @@ Table II - Results of a YOLOv5 test
 |veiculo-pequeno|27887|99601|0.737|0.65|0.669|0.251|
 |veiculo-medio|27887|272464|0.856|0.897|0.916|0.597|
 |veiculo-grande|27887|20089|0.843|0.837|0.877|0.612|
+
+The dataset is hosted on Kaggle, by following the link: https://www.kaggle.com/sganderla/urban-zone-aerial-object-detection-dataset
+
+# Acknowledgements
+
+@inproceedings{robicquet2016learning,
+title={Learning social etiquette: Human trajectory understanding in crowded scenes},
+author={Robicquet, Alexandre and Sadeghian, Amir and Alahi, Alexandre and Savarese, Silvio},
+booktitle={European conference on computer vision},
+pages={549--565},
+year={2016},
+organization={Springer}
+}
+
+@inproceedings{du2018unmanned,
+title={The unmanned aerial vehicle benchmark: Object detection and tracking},
+author={Du, Dawei and Qi, Yuankai and Yu, Hongyang and Yang, Yifan and Duan, Kaiwen and Li, Guorong and Zhang, Weigang and Huang, Qingming and Tian, Qi},
+booktitle={Proceedings of the European Conference on Computer Vision (ECCV)},
+pages={370--386},
+year={2018}
+}
+
+@article{zhu2020vision,
+title={Vision meets drones: Past, present and future},
+author={Zhu, Pengfei and Wen, Longyin and Du, Dawei and Bian, Xiao and Hu, Qinghua and Ling, Haibin},
+journal={arXiv preprint arXiv:2001.06303},
+year={2020}
+}
